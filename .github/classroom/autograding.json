@@ -107,7 +107,7 @@
       "input": "10 120",
       "output": "ERROR",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 5,
       "points": null
     }
   ]
